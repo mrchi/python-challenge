@@ -21,7 +21,7 @@ Solutions of The Python Challenge of http://www.pythonchallenge.com/
 - [x] Challenge 14
 - [x] Challenge 15
 - [x] Challenge 16
-- [ ] Challenge 17
+- [x] Challenge 17
 - [ ] Challenge 18
 - [ ] Challenge 19
 - [ ] Challenge 20
