@@ -24,8 +24,8 @@ Solutions of The Python Challenge of http://www.pythonchallenge.com/
 - [x] Challenge 17
 - [x] Challenge 18
 - [x] Challenge 19
-- ~~[ ] Challenge 20~~(The crucial image returned HTTP 500, sad)
-- ~~[ ] Challenge 21~~(Sad again)
+- [ ] ~~Challenge 20~~(The crucial image returned HTTP 500, sad)
+- [ ] ~~Challenge 21~~(Sad again)
 - [x] Challenge 22
 - [ ] Challenge 23
 - [ ] Challenge 24
