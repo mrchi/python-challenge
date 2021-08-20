@@ -35,4 +35,5 @@ for pattern in patterns:
     im.show()
 
 answer = "bonus"
-print(f"http://www.pythonchallenge.com/pc/hex/{answer}.html")
+
+print(f"http://butter:fly@www.pythonchallenge.com/pc/hex/{answer}.html")
