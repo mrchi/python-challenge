@@ -29,7 +29,7 @@ Solutions of The Python Challenge of http://www.pythonchallenge.com/
 - [x] Challenge 22
 - [x] Challenge 23
 - [x] Challenge 24
-- [ ] Challenge 25
+- [x] Challenge 25
 - [ ] Challenge 26
 - [ ] Challenge 27
 - [ ] Challenge 28
