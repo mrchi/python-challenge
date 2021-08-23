@@ -30,8 +30,8 @@ Solutions of The Python Challenge of http://www.pythonchallenge.com/
 - [x] Challenge 23
 - [x] Challenge 24
 - [x] Challenge 25
-- [ ] Challenge 26
-- [ ] Challenge 27
+- [x] Challenge 26
+- [x] Challenge 27
 - [ ] Challenge 28
 - [ ] Challenge 29
 - [ ] Challenge 30
