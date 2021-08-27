@@ -35,6 +35,6 @@ Solutions of The Python Challenge of http://www.pythonchallenge.com/
 - [x] Challenge 28
 - [x] Challenge 29
 - [x] Challenge 30
-- [ ] Challenge 31
+- [x] Challenge 31
 - [ ] Challenge 32
 - [ ] Challenge 33
