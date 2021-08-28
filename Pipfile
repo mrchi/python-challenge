@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 requests = "*"
 pillow = "*"
+nonogram-cracker = "*"
+marshmallow = "*"
 
 [dev-packages]
 flake8 = "*"
