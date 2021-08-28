@@ -1,4 +1,4 @@
-# python-challenge
+# the-python-challenge
 
 Solutions of The Python Challenge of http://www.pythonchallenge.com/
 
