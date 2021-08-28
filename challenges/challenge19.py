@@ -33,4 +33,4 @@ subprocess.call(["open", reformed_wav_path])  # Only for macOS
 
 clue = "idiot"
 answer = "idiot2"
-print(f"http://www.pythonchallenge.com/pc/hex/{answer}.html")
+print(f"http://butter:fly@www.pythonchallenge.com/pc/hex/{answer}.html")
